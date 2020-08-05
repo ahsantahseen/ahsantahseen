@@ -1,4 +1,4 @@
-### Hello , I'm Ahsan -
+### Hello there!, I'm Ahsan-
 
 ## I'm a Student, Gamer and Developer
 

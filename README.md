@@ -9,7 +9,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="ahsantahseen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />Instagram
+<img align="left" alt="ahsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />Instagram
+
+<img align="left" alt="ahsan | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />Discord
 
 <br />
 

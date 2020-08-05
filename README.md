@@ -2,7 +2,7 @@
 
 ## I'm a Student, Gamer and Developer
 
-- 🏫 I’m currently doing Bachelors in Computer Science!
+- 🏫 I’m currently doing my bachelors in Computer Science!
 - 📚 I’m currently self-learning React.Js 
 - 👨‍💻 I’m trying to improve myself by making more small projects.
 - 🎮 Off-topic: I've been a competitive CSGO player and watch a lot of CSGO esports.

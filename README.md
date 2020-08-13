@@ -1,6 +1,6 @@
 ### Hello there!, I'm Ahsan-
 
-## I'm a Student, Gamer and Developer
+## I'm a Student, Gamer and a Developer
 
 - 🏫 I’m currently doing my bachelors in Computer Science!
 - 📚 I’m currently self-learning React.Js 
@@ -10,6 +10,8 @@
 ### Connect with me:
 
 <a href="https://www.instagram.com/ahsantahseen/"><img align="left" alt="ahsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />Instagram <a>
+  
+<a href="https://steamcommunity.com/profiles/76561198388932551/"><img align="left" alt="ahsan | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg"  />Instagram <a>
 
 <br />
 

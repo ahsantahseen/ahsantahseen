@@ -4,7 +4,7 @@
 
 - 🏫 I’m currently doing my bachelors in Computer Science! 
 - 👨‍💻 I’m trying to improve myself by making more small projects.
-- 🎮 Off-topic: I've been a competitive CSGO player and watch a lot of CSGO esports.
+
 
 ### Connect with me:
 

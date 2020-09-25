@@ -2,8 +2,8 @@
 
 ## I'm a Student, Gamer and a Developer
 
-- 🏫 I’m currently doing my bachelors in Computer Science! 
-- 👨‍💻 I’m trying to improve myself by making more small projects.
+- I’m currently doing my bachelors in Computer Science! 
+- I’m trying to improve myself by making more small projects.
 
 
 ### Connect with me:

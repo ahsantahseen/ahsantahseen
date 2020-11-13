@@ -5,13 +5,6 @@
 - I’m currently doing my bachelors in Computer Science! 
 - I’m trying to improve myself by making more small projects.
 
-
-### Connect with me:
-
-<a href="https://www.instagram.com/ahsantahseen/"><img align="left" alt="ahsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />Instagram <a>
-  
-<a href="https://steamcommunity.com/profiles/76561198388932551/"><img align="left" alt="ahsan | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg"  />Steam <a>
-
 <br />
 
 ### Languages & Tools:

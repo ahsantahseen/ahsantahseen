@@ -1,6 +1,6 @@
 
 
-<img alt="jet" src="http://pngimg.com/uploads/jet_fighter/jet_fighter_PNG63.png"/>
+<img alt="jet" src="http://pngimg.com/uploads/jet_fighter/jet_fighter_PNG63.png" height="200px" width="300px"/>
 
 <br />
 

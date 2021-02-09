@@ -1,9 +1,6 @@
-### Hello there!, I'm Ahsan-
 
-## I'm a Student, Gamer and a Developer
 
-- I’m currently doing my bachelors in Computer Science! 
-- I’m trying to improve myself by making more small projects.
+<img alt="jet" src="http://pngimg.com/uploads/jet_fighter/jet_fighter_PNG63.png"/>
 
 <br />
 

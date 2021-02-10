@@ -1,5 +1,5 @@
 
-<a href="https://ibb.co/Qbr92cq"><img src="https://i.ibb.co/Vj2V7Nh/Pakistan-JF-17-modified.png" alt="Pakistan-JF-17-modified" border="0"></a>"/>
+<a href="https://ibb.co/Qbr92cq"><img src="https://i.ibb.co/Vj2V7Nh/Pakistan-JF-17-modified.png" alt="Pakistan-JF-17-modified" border="0"></a>
 
 <br />
 

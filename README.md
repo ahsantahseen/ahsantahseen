@@ -1,4 +1,4 @@
-<a href="https://ibb.co/Qbr92cq"><img src="https://i.ibb.co/Vj2V7Nh/Pakistan-JF-17-modified.png"  alt="Pakistan-JF-17" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/9sC7HCk/Pakistan-JF-17-modified-removebg-preview.png" alt="Pakistan-JF-17-modified-removebg-preview" border="0"></a>
 
 <br />
 

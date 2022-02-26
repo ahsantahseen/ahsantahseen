@@ -1,7 +1,5 @@
 
-## Welcome to my Github
-
-### My name is Ahsan and i like to code!
+## My name is Ahsan and i like to code
 
 <img align="left"  alt="JavaScript" style="margin-botton:2px" width="44px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
 <img align="left"  alt="JavaScript" style="margin-botton:-10px" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />

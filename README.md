@@ -1,4 +1,3 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/9sC7HCk/Pakistan-JF-17-modified-removebg-preview.png" alt="Pakistan-JF-17-modified-removebg-preview" border="0"></a>
 
 <br />
 

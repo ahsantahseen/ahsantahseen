@@ -1,7 +1,7 @@
 
 ### cat ~./readme
 
-### Hello, I'm Ahsan. I am a Full Stack Web Developer currently focusing on MERN Stack.
+### Hello, I'm Ahsan. I am a Full Stack Web Developer.
 
 <img align="left"  alt="JavaScript" style="margin-botton:2px" width="44px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
 <img align="left"  alt="JavaScript" style="margin-botton:-10px" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />

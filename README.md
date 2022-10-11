@@ -1,6 +1,6 @@
 
 > ### cat README.md
-
+>
 > Hello there, i like coding and i normally work with JavaScript but i have slight interest in C , Java and Python as well. Oh and i normally use visual studio code since it's an lightweight text-editor, that's it i guess? contact me if you wanna ask something else too.
 
 <img align="left"  alt="JavaScript" style="margin-botton:2px" width="44px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />

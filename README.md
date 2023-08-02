@@ -1,5 +1,5 @@
 
-> ### cat README.md
+```cat README.md```
 >
 > Hello there, i like coding and i normally work with JavaScript, thanks.
 

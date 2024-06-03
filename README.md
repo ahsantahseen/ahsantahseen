@@ -1,7 +1,7 @@
 
 > ```cat README.md```
 >
-> I am **Ahsan, full-stack web developer** located in Pakistan. I work as a freelance web developer on various platforms, offering my services to clients from around the globe. I take immense pride in my work and have developed a passion for creating innovative and user-friendly web applications.
+> I am **Ahsan, full-stack web developer** located in Pakistan. I work as a freelance web developer, offering my services to clients from around the globe. I take immense pride in my work and have developed a passion for creating innovative and user-friendly web applications.
 >
 >![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -21,3 +21,8 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+>
+> ```Find me there! @ahsantahseen```
+> 
+> ![Fiverr](https://img.shields.io/badge/Fiverr-18C06F?style=for-the-badge&labelColor=white&logo=fiverr&logoColor=#18C06F)
+> ![Upwork](https://img.shields.io/badge/Upwork-18C06F?style=for-the-badge&labelColor=white&logo=upwork&logoColor=#18C06F)

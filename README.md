@@ -1,4 +1,4 @@
 
 ```cat README.md```
 >
-> Hi! I'm **Ahsan**, and I specialize in creating **websites** that help businesses **shine online**. If you're ready to **elevate your business's** online presence, let's connect!
+> I am **Ahsan, full-stack web developer** located in Pakistan. I work as a freelance web developer on various platforms, offering my services to clients from around the globe. I take immense pride in my work and have developed a passion for creating innovative and user-friendly web applications.

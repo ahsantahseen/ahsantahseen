@@ -22,7 +22,14 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 >
-> ```Find me there! @ahsantahseen```
+>
+>
+>![Fiverr](https://img.shields.io/badge/Fiverr-18C06F?style=for-the-badge&labelColor=white&logo=fiverr&logoColor=#18C06F)
 > 
-> ![Fiverr](https://img.shields.io/badge/Fiverr-18C06F?style=for-the-badge&labelColor=white&logo=fiverr&logoColor=#18C06F)
-> ![Upwork](https://img.shields.io/badge/Upwork-18C06F?style=for-the-badge&labelColor=white&logo=upwork&logoColor=#18C06F)
+>
+>![Completed Orders](https://img.shields.io/badge/Completed_Orders-430-brightgreen)
+>![Rating](https://img.shields.io/badge/Rating-5_Stars-yellow)
+> 
+> I offer professional services on Fiverr, including web development, graphic design, and more. Feel free to reach out for collaborations!
+> 
+>[Visit my Fiverr Profile](https://www.fiverr.com/ahsanantahseen)

@@ -30,6 +30,6 @@
 >![Completed Orders](https://img.shields.io/badge/Completed_Orders-430-brightgreen)
 >![Rating](https://img.shields.io/badge/Rating-5_Stars-yellow)
 > 
-> I offer professional services on Fiverr, including web development, graphic design, and more. Feel free to reach out for collaborations!
+> I offer professional services on Fiverr, including web development, custom APIs, and more. Feel free to reach out for collaborations!
 > 
 >[Visit my Fiverr Profile](https://www.fiverr.com/ahsantahseen)

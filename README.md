@@ -1,7 +1,7 @@
 
 > ```cat README.md```
 >
-> I am **Ahsan, full-stack web developer** located in Pakistan. I work as a freelance web developer, offering my services to clients from around the globe. I take immense pride in my work and have developed a passion for creating innovative and user-friendly web applications.
+> I am **Ahsan, full-stack web developer** located in Pakistan. I take immense pride in my work and have developed a passion for creating innovative and user-friendly web applications.
 >
 >![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)

@@ -1,7 +1,7 @@
 
 > ```cat README.md```
 >
-> I am **Ahsan, your avg software developer**. I take immense pride in my work and have developed a passion for creating innovative and user-friendly web applications.
+> I am **Ahsan, a software developer**. I take immense pride in my work and have developed a passion for creating innovative and user-friendly web applications.
 >
 >![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)

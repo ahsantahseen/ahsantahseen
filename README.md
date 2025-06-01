@@ -30,7 +30,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ahsantahseen&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="GitHub streak"/>
-</div>

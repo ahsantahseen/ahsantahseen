@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="auto" src="https://i.pinimg.com/originals/db/a6/f8/dba6f8f9994789f821e54078cd5e1585.gif" />
+  <img height="auto" src="https://i.imgur.com/KyF9EUe.gif" />
+  
 </div>
 <p align="center">
   <i>“The only way to do great work is to love what you do.”</i>
